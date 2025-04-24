@@ -1,6 +1,6 @@
 import java.util.*;
 
-import Java.stack;
+
 
 class Queue {
     int[] Queue;
