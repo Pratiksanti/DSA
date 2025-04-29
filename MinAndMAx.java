@@ -23,3 +23,12 @@ class MinAndMAx {
         System.out.println("The minimam Number is:-  "+min);
     }
 }
+/*output
+ Enter the size of Array:-  
+5
+Enter the Array Element:- 
+1 2 3 4 5
+The maximan Number is:-  5
+The minimam Number is:-  1
+
+ */
